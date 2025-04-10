@@ -11,7 +11,6 @@
 
 ### 🎨 Who Am I?
 
-🎨 Who Am I?
 🌱 A full-stack developer with 4+ years of experience, thriving in fast-paced startup environments
 
 💡 Strong focus on frontend development, but equally confident across backend and mobile stacks
