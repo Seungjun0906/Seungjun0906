@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%F0%9F%91%8B+Your+Name!;Creative+Technologist+%26+Frontend+Engineer;Lover+of+3D+Web%2C+AI+%26+Performance+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%F0%9F%91%8B+Jun!;Creative+Technologist+%26+FullStack+Engineer;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -78,8 +78,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Seungjun0906&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungjun0906&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -87,7 +87,6 @@
 ### 🛰️ Let's Connect
 
 <p align="center">
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/seungjunkim0906" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dev.seungjunkim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
